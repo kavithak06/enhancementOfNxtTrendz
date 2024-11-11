@@ -1,1 +1,23 @@
 /* Write your CSS here */
+.order-total-heading {
+  color: #3e4c59;
+}
+
+.span-text {
+  color: black;
+}
+
+.Summary-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.checkout-btn{
+  background-color: blue;
+  height: 35px;
+  border-style: none;
+  border-radius: 10px;
+  color: white;
+  font-family: "Roboto";
+  font-size: 18px;
+}

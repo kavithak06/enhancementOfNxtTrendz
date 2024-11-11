@@ -25,7 +25,7 @@
 }
 
 .cart-heading {
-  color: #3e4c59;
+  color: black;
   font-family: 'Roboto';
   font-size: 24px;
   font-weight: 700;
@@ -38,3 +38,10 @@
 }
 
 /* Write your CSS here */
+.remove-all-btn {
+  height: 40px;
+  background-color: orange;
+  border-radius: 8px;
+  font-size: 20px;
+  border-style: none;
+}

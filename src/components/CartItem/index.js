@@ -71,7 +71,6 @@ const CartItem = props => (
             className="delete-button"
             type="button"
             onClick={onRemoveCartItem}
-            data-testid="remove"
           >
             <AiFillCloseCircle color="#616E7C" size={20} />
           </button>

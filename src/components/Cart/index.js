@@ -36,7 +36,9 @@ const Cart = () => (
                 </button>
                 <CartListView />
                 {/* TODO: Add your code for Cart Summary here */}
-                <CartSummary />
+                <div className="Summary-container">
+                  <CartSummary />
+                </div>
               </div>
             )}
           </div>
