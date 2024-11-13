@@ -12,12 +12,12 @@
   justify-content: flex-end;
 }
 
-.checkout-btn{
+.checkout-btn {
   background-color: blue;
   height: 35px;
   border-style: none;
   border-radius: 10px;
   color: white;
-  font-family: "Roboto";
+  font-family: 'Roboto';
   font-size: 18px;
 }
